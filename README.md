@@ -19,7 +19,7 @@ Tools:
  <div align="left"  class="icons-social" style="margin-left: 10px;">
    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ali-hamid-427323363/">
      <img src="https://github.com/sephrot/sephrot/blob/main/linkedin_logo.png"></a>
-   <a style="margin-left: 10px;" target="_blank" href="aliash12@hotmail.com">
+   <a style="margin-left: 10px;" target="_blank" href="mailto:aliash12@hotmail.com">
      <img src="https://github.com/sephrot/sephrot/blob/main/gmail_logo.png"></a>
  </div>
 </p>
