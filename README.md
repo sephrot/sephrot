@@ -1,5 +1,6 @@
 # Hi there 👋
-I'm a bachelor student in Information Technology at OsloMet. Currently working on my bachelor project in collaboration with Mesta, focusing on a digital twin for infrastructure management.
+I'm a bachelor student in Information Technology at OsloMet. 
+Currently working on my bachelor project in collaboration with Mesta, building a web application for visualizing and analyzing winter road maintenance data.
 ## Some of the technologies I've used:
 Frontend:
 <br>
